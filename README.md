@@ -4,7 +4,7 @@ My personal portfolio website showcasing my projects,
 skills, and learning journey as a web developer.
 
 ## Live Website
-https://somil-sharma-project-showcase.netlify.app/
+https://somil-sharma-portfolio.netlify.app 
 
 ## Features
 - Responsive design
